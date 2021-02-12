@@ -1,3 +1,3 @@
-# file3
+# Binary Search Tree
 
 source: `{{ page.path }}`

@@ -1,3 +1,3 @@
-# file2
+# Insertion Sort
 
 source: `{{ page.path }}`

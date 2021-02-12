@@ -1,3 +1,3 @@
-# I'm folder1
+# Binary Tree
 
 source: `{{ page.path }}`

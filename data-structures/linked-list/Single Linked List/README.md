@@ -1,3 +1,3 @@
-# file3
+# Single Linked List
 
 source: `{{ page.path }}`

@@ -1,3 +1,3 @@
-# file2
+# Linked Lists
 
 source: `{{ page.path }}`

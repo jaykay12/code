@@ -1,3 +1,3 @@
-# I'm folder2
+# Segment Tree
 
 source: `{{ page.path }}`
