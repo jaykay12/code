@@ -1,3 +1,5 @@
-# Searching Algorithms
+---
+sort: 2
+---
 
-source: `{{ page.path }}`
+# Searching Algorithms

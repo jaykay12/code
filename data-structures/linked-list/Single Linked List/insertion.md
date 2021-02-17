@@ -1,3 +1,5 @@
-# file2
+---
+sort: 2
+---
 
-source: `{{ page.path }}`
+# Insertion of node

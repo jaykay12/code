@@ -1,3 +1,5 @@
-# String Algorithms
+---
+sort: 7
+---
 
-source: `{{ page.path }}`
+# String Algorithms

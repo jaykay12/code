@@ -1,3 +1,5 @@
-# Greedy Techniques
+---
+sort: 5
+---
 
-source: `{{ page.path }}`
+# Greedy Techniques

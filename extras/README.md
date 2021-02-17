@@ -1,7 +1,7 @@
 ---
-sort: 1
+sort: 3
 ---
 
-# Sorting Algorithms
+# Theme concepts
 
 {% include list.liquid all=true %}

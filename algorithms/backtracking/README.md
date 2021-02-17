@@ -1,3 +1,5 @@
-# Backtracking & Recursions
+---
+sort: 3
+---
 
-source: `{{ page.path }}`
+# Backtracking & Recursions

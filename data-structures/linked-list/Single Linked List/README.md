@@ -1,3 +1,3 @@
 # Single Linked List
 
-source: `{{ page.path }}`
+{% include list.liquid all=true %}

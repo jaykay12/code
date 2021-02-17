@@ -1,3 +1,5 @@
-# file3
+---
+sort: 3
+---
 
-source: `{{ page.path }}`
+# Deletion of node

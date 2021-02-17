@@ -2,4 +2,4 @@
 sort: 4
 ---
 
-# Graphs
+# Loop detection

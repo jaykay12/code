@@ -1,3 +1,5 @@
-# Divide & Conquer Strategy
+---
+sort: 4
+---
 
-source: `{{ page.path }}`
+# Divide & Conquer Strategy

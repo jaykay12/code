@@ -1,3 +1,5 @@
-# Dynamic programming
+---
+sort: 6
+---
 
-source: `{{ page.path }}`
+# Dynamic programming
