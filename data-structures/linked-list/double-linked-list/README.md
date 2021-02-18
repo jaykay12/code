@@ -1,7 +1,7 @@
 ---
-sort: 1
+sort: 3
 ---
 
-# Linked Lists
+# Double Linked List
 
 {% include list.liquid all=true %}

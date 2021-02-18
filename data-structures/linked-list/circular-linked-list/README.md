@@ -1,7 +1,7 @@
 ---
-sort: 1
+sort: 4
 ---
 
-# Linked Lists
+# Circular Linked List
 
 {% include list.liquid all=true %}
